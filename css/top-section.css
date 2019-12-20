@@ -1,8 +1,5 @@
 
 
-#top {
-
-}
 
 #top .container{
     display: grid;
@@ -58,13 +55,12 @@
     z-index: 1;
 }
 
-#top .img {
-
-}
 
 #top .img .background-img{
     background: url("../personalheadshot.jpeg") center /cover no-repeat;
     width: 100%;
     max-width: 500px;
     height: 600px;
+    border-radius: 5px;
+    margin: 0 auto;
 }
